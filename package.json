@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      {
+        "raw": ".",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": ".",
+        "spec": "/home/dv/workspace/tpp.12/poky/x.tpp/tmp/work/cortexa8hf-neon-tps-linux-gnueabi/node-tibbo-uartmode/1.0-r0/node-tibbo-uartmode",
+        "type": "directory"
+      },
+      ""
+    ]
+  ],
+  "_from": "../../node-tibbo-uartmode",
+  "_id": "tibbo-uartmode@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/tibbo-uartmode",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": ".",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": ".",
+    "spec": "/home/dv/workspace/tpp.12/poky/x.tpp/tmp/work/cortexa8hf-neon-tps-linux-gnueabi/node-tibbo-uartmode/1.0-r0/node-tibbo-uartmode",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../../node-tibbo-uartmode",
+  "_shasum": "fb0ea48441fc1b5a7f85074cbf223776ff0093f3",
+  "_shrinkwrap": null,
+  "_spec": ".",
+  "_where": "",
+  "author": {
+    "name": "Dvorkin Dmitry",
+    "email": "dvorkin@tibbo.com"
+  },
+  "dependencies": {},
+  "description": "LTPS uart mode switch API",
+  "devDependencies": {},
+  "gypfile": true,
+  "license": "GPL",
+  "main": "app.js",
+  "name": "tibbo-uartmode",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
